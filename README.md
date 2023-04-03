@@ -7,11 +7,12 @@ Assignments are listed as follows:
 2. Write about any one YOLO version.
 3. Write about Transformer Models.
 
-Submitted By
-Aneetta Sara Shany
-MTech CSE Software Engineering
 
-Submitted To
-Dr. Shailesh Sivan
-Department of Computer Science CUSAT
+Submitted By  
+Aneetta Sara Shany  
+*MTech CSE Software Engineering*  
+
+Submitted To  
+Dr. Shailesh Sivan  
+*Department of Computer Science CUSAT*
 
