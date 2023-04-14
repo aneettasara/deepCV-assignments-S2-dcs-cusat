@@ -6,6 +6,8 @@ Assignments are listed as follows:
 1. Prepare a note on different optimization techniques, loss functions, regularisation techniques, and activation functions and their significance in MLP.
 2. Write about any one YOLO version.
 3. Write about Transformer Models.
+4. Implement MLP from scratch & replace the backpropagation algorithm with any of the latest optimization algorithms.
+5. Implement CNN for classifying an apple's image kept in any 1 of 4 quadrants.
 
 
 Submitted By  
