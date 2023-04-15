@@ -7,7 +7,7 @@ Assignments are listed as follows:
 2. Write about any one YOLO version.
 3. Write about Transformer Models.
 4. Implement MLP from scratch & replace the backpropagation algorithm with any of the latest optimization algorithms.
-5. Implement CNN for classifying an apple's image kept in any 1 of 4 quadrants.
+5. Implement CNN for classifying an apple's image kept in any 1 of 4 quadrants. Dataset available at https://www.kaggle.com/datasets/aneettasara/apples-in-four-quadrants-classification-cnn
 
 
 Submitted By  
